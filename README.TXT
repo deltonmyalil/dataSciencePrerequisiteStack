@@ -8,3 +8,4 @@ Contents
 3. vectorsAndMatrices : Working with 2d numpy arrays and built in numpy matrices (which is discouraged)
 4. generatingMatrices : Generating zero, one and random matrices to work with without using for loop
 5. matrixOperations : Inverse, Determinant, Eigen values and vectors, Diagonal elements, generating Diagonal matrices and identity matrices.
+6. solvingALinearSystem : Solve a system of n linear equations in n variables using numpy.linalg,solve()
