@@ -15,7 +15,8 @@ B = np.array([1, 2])
 # X = [x,y] ie the variable/unknown matrix
 
 inverseOfA = np.linalg.inv(A)
-X = np.dot(inverseOfA, B)  # X is the solution now. However, this method is DISCOURAGED, use numpy.linalg.solve() instead
+X = np.dot(inverseOfA,
+           B)  # X is the solution now. However, this method is DISCOURAGED, use numpy.linalg.solve() instead
 
 # Since this is a common operation, np.linalg provides a solve() function.
 X = np.linalg.solve(A, B)
