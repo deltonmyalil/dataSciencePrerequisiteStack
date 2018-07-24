@@ -13,4 +13,4 @@ PART I - NUMPY TRIALS
 6. solvingALinearSystem : Solve a system of n linear equations in n variables using numpy.linalg,solve()
 
 PART II - PANDAS TRIALS
-7. manualDataLoading :
+7. manualDataLoading : Loading data using a for loop without using pandas.
