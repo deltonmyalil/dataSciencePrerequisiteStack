@@ -41,4 +41,3 @@ print("taking sqrt using np.sqrt(numpyArray)")
 print(np.sqrt(numpyArray))
 print("same goes for log")
 print(np.log(numpyArray))  # For the above three operations on list, we have to use for loop but on numpy array, you can do directly
-
