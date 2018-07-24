@@ -16,4 +16,4 @@ PART II - PANDAS TRIALS
 7. manualDataLoading : Loading data using a for loop without using pandas.
 8. dataFrameLoadingData : Automatic Loading of data and manipulation using pd.read_csv()
 9. moreOnDataFrames : df.apply(), Renaming column, printing a single column, adding column of ones, adding a column having derived value using apply()
-10. joins :
+10. joins : joining two df using pandas.merge(df1, df2, on="attribute_name")
