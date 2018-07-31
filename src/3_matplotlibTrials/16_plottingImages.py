@@ -23,3 +23,5 @@ plt.show()
 # if you do
 # plt.imshow(255-image, cmap='gray')
 # then the grayscale image color will be inverted
+
+# Prerequisites Completed
